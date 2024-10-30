@@ -1,0 +1,28 @@
+.woocommerce-checkout #payment .payment_methods li p {
+  margin: 0 0 1.41575em !important;
+}
+
+.woocommerce-checkout #payment .payment_methods div.payment-logos {
+  display: block;
+  width: 300px;
+  height: 100px;
+  margin-bottom: 16px;
+}
+
+.woocommerce-checkout #payment .payment_methods div.payment-logos img {
+  display: block;
+  float: none;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.woocommerce-checkout .payment_method_woocashleo_gateway img {
+  width: 50px;
+  height: auto;
+  display: inline;
+}
+
+/*# sourceMappingURL=checkout.css.map */
